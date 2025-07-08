@@ -8,7 +8,7 @@
 I build full stack apps that use AI and data to solve problems. I’ve worked on AI news apps, social platforms, booking systems, iOS apps in Swift, and multiplayer games.
 I’m passionate about AI, machine learning, and data science. I enjoy turning data into insights using Python tools like Pandas and NumPy, creating ML models, and integrating AI into projects.
 
-### What I Use (but I am always trying to learn more)
+### What I currently use (always expanding)
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
