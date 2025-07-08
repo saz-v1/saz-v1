@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there 👋, I'm Syed<br>
+  Hi there , I'm Syed<br>
   <small>🎓 First Class Computer Science Graduate | 💻 Full Stack Developer </small>
 </h2>
 
