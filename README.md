@@ -3,20 +3,13 @@
   <small>🎓 First Class Computer Science Graduate | 💻 Full Stack Developer </small>
 </h2>
 
-
----
-
 ### About Me
 
 I build full stack apps that use AI and data to solve problems. I’ve worked on AI news apps, social platforms, booking systems, iOS apps in Swift, and multiplayer games.
 
----
-
 ### Interests
 
 I’m passionate about AI, machine learning, and data science. I enjoy turning data into insights using Python tools like Pandas and NumPy, creating ML models, and integrating AI into projects.
-
----
 
 ### What I Use (but I am always trying to learn more)
 
