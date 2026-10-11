@@ -2,7 +2,7 @@
 
 **Software Developer | First-Class Computer Science Graduate**
 
-[Portfolio](https://syedzaheer.co.uk)
+[Check out my Portfolio](https://syedzaheer.co.uk)
 
 ## About Me
 
@@ -36,7 +36,7 @@ STM32, Arduino, Raspberry Pi Pico, Microcontrollers, Serial Communication
 
 ## Portfolio
 
-For a closer look at my projects, experience and technical background, visit my portfolio:
+For a closer look at my projects, experience and technical background, or to get in touch, visit my portfolio:
 
 **[syedzaheer.co.uk](https://syedzaheer.co.uk/)**
 
