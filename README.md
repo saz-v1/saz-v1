@@ -42,8 +42,6 @@ For a closer look at my projects, experience and technical background, or to get
 
 ---
 
-## Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
